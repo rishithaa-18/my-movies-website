@@ -32,6 +32,3 @@ This project is a static website that allows users to explore movies across diff
 ## Author
 
 Rishitha
-
-- Contact: Allows users to get in touch with the website administrators for inquiries or feedback.
-- Disclaimer: Provides legal disclaimers and terms of use for the website and its content.
