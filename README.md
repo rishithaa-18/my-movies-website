@@ -1,7 +1,3 @@
-# My Movies Website
-
-A responsive movie browsing website built using HTML, CSS, and JavaScript.
-
 ## Overview
 
 This project is a static website that allows users to explore movies across different categories. It includes multiple pages and a clean user interface.
