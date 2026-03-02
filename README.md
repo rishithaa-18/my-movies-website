@@ -13,7 +13,7 @@ This project is a static website that allows users to explore movies across diff
 - Multi-page structure (Home, About, Contact)
 - Interactive elements using JavaScript
 
-## Technologies Used
+## Tech Stack
 
 - HTML
 - CSS
